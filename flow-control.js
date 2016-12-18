@@ -1,8 +1,11 @@
-function basicTeenager(age) {
+function basicTeenager(you, are, a, teenager){ if 13<19}
+   {
+  return ("You are a teenager!")
+   }
 
-}
 
-function teenager(age) {
+
+function teenager(age) {if (13<=19)
 
 }
 
